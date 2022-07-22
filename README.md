@@ -1,1 +1,1 @@
-# FinMath
+# Welcome to the FinMath Series.
